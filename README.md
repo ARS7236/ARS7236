@@ -1,4 +1,8 @@
 ## Hi there 👋
+This is my special repo
+And here will my stuff that im developed yet.
+
+All links are in my YT! *"https://www.youtube.com/@ARS7236"*
 
 <!--
 **ARS7236/ARS7236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
