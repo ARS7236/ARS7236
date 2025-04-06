@@ -7,7 +7,7 @@ from PyQt5.QtCore import Qt
 
 # Paths for Resource Hacker and Template DLL
 RESOURCE_HACKER_PATH = r"C:\\Program Files (x86)\\Resource Hacker\\ResourceHacker.exe"
-TEMPLATE_DLL_PATH = r"C:\Users\ARS7236\Desktop\Folders\projects\resource_gighack\default.template.dll"
+TEMPLATE_DLL_PATH = r"C:\Your\path\to\resource_gighack\default.template.dll"
 
 class ResourceGighack(QMainWindow):
     def __init__(self):
