@@ -1,7 +1,17 @@
 ## Hi there 👋
 This is my special repo
-And here will my stuff that im developed yet.
+And here is my stuff that either i didn't know where to sort or just projects without names(or unnamed projects) will be here.
+ and:
+ 
+ ---  /whoami: ---
+   `arstoonnetwork/ARS7236`
 
+ ---  /editor: ---
+ `im using vs code or sometimes anti-gravity, but prefer vs code`
+ 
+ ---  /code: ---
+   `yet im just vibecoding stuff just for fun or because of boredom or both ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ and using chatGPT for idea polishing and Gemini agent in vs code`
+   
 All links are on my YT! *"https://www.youtube.com/@ARS7236"*
 
 <!--
